@@ -1,0 +1,311 @@
+img.phone {
+    width: 2%;
+}
+
+.phone {
+    margin-left: 7%;
+}
+
+p.number {
+    margin-top: -25px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 138px;
+    color: white;
+}
+
+img.gmail {
+    width: 2%;
+    margin-left: 24%;
+    margin-top: -43px;
+}
+
+p.example {
+    margin-top: -40px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 379px;
+    color: white;
+}
+
+div#back {
+    background: black;
+}
+
+div#back-2 {
+    background: rgb(183, 128, 128);
+}
+
+h1.make {
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 13%;
+    color: white;
+}
+
+h3.make-2 {
+    font-size: 35;
+    font-weight: 500;
+    text-align: center;
+}
+
+p.meet {
+    font-size: 33px;
+    text-align: center;
+    margin-top: -1%;
+}
+
+img.events {
+    width: 100%;
+}
+
+p.click {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+button.btn {
+    background: beige;
+    width: 10%;
+    height: 6%;
+    border-radius: 50px;
+}
+
+p.btn-content {
+    font-size: 16px;
+    font-weight: 200;
+    margin-top: 9px;
+}
+
+.event-button {
+    text-align: center;
+}
+
+h2.search {
+    font-size: 30px;
+    color: #8b7c7c;
+    margin-left: 11%;
+    /* margin-top: 2%; */
+}
+
+input.search-text {
+    width: 16%;
+    height: 6%;
+    margin-left: 11%;
+}
+
+::-webkit-input-placeholder {
+    font-size: 16px;
+
+}
+
+h2.Location {
+    font-size: 30px;
+    color: #8b7c7c;
+    /* margin-left: 11%; */
+    margin-top: -120px;
+    margin-left: 33%;
+}
+
+input.Location {
+    /* margin-left: 505px; */
+    width: 16%;
+    height: 6%;
+    margin-left: 33%;
+}
+
+h2.month {
+    font-size: 30px;
+    color: #8b7c7c;
+    /* margin-left: 11%; */
+    margin-top: -120px;
+    margin-left: 53%;
+}
+
+input.dates {
+    margin-left: 53%;
+    width: 16%;
+    height: 6%;
+
+}
+
+button.search-btn {
+    margin-left: 75%;
+    margin-top: -65px;
+    width: 8%;
+    height: 6%;
+    background: cadetblue;
+    border-radius: 50px;
+}
+
+h5.sport {
+    font-size: 24px;
+    color: #897b7b;
+    margin-left: 16%;
+    margin-top: 2%;
+}
+
+h2.ALL.SPORT.EVENTS {
+    margin-left: 11%;
+    color: #978989;
+    margin-top: -20px;
+
+}
+
+h4.showing {
+    font-size: 24px;
+    margin-top: -6%;
+    margin-left: 35%;
+    color: #8d7b7b;
+}
+
+h4.tennis {
+    font-size: 22px;
+    color: #817777;
+    margin-left: 35%;
+}
+
+p.Venue {
+    font-size: 20;
+    color: #776b6b;
+    margin-left: 35%;
+    margin-top: -10px;
+}
+
+p.Gillette {
+    margin-left: 35%;
+    font-weight: 200;
+    font-size: 17px;
+    margin-top: -5px;
+}
+
+p.thursday {
+    font-size: 20;
+    color: #776b6b;
+    margin-left: 55%;
+    margin-top: -73px;
+}
+
+p.time {
+    font-size: 20;
+    color: #776b6b;
+    margin-left: 71%;
+    margin-top: -43px;
+}
+
+p.December {
+    margin-left: 55%;
+    font-weight: 200;
+    font-size: 17px;
+    margin-top: -5px;
+}
+
+p.\31 2 {
+    margin-left: 71%;
+    font-weight: 200;
+    font-size: 17px;
+    margin-top: -36px;
+}
+
+button.book {
+    margin-left: 80%;
+    margin-top: -5%;
+    height: 8%;
+    border-radius: 50px;
+    background: darkgray;
+}
+
+form#event-form {
+    margin-left: 16%;
+    margin-top: -35%;
+}
+
+label {
+    font-size: 18px;
+}
+
+.event-button-a {
+    text-align: center;
+}
+
+h4.ticket {
+    font-size: 30px;
+    text-align: center;
+}
+
+h4.from {
+    font-size: 22px;
+    color: #817979;
+    margin-left: 22%;
+}
+
+input.Departure {
+    height: 6%;
+    width: 20%;
+    margin-left: 22%;
+    margin-top: -10px;
+}
+
+h4.to {
+    font-size: 22px;
+    color: #817979;
+    margin-left: 52%;
+    margin-top: -92px;
+}
+
+input.destination {
+    height: 6%;
+    width: 20%;
+    margin-left: 52%;
+    margin-top: -10px;
+}
+
+h4.Departs {
+    font-size: 22px;
+    color: #817979;
+    margin-left: 22%;
+    margin-top: 3%;
+}
+
+input.date {
+    height: 6%;
+    width: 20%;
+    margin-left: 22%;
+    margin-top: -10px;
+}
+
+h4.return {
+    font-size: 22px;
+    color: #817979;
+    margin-left: 52%;
+    margin-top: -92px;
+}
+
+input.return {
+    height: 6%;
+    width: 20%;
+    margin-left: 52%;
+    margin-top: -10px;
+}
+
+h4.class {
+    font-size: 22px;
+    color: #817979;
+    margin-left: 45%;
+    margin-top: 3%;
+}
+
+select#myDropdown {
+    height: 6%;
+    width: 20%;
+    margin-left: 37%;
+    margin-top: -10px;
+}
+
+button.form-button-a {
+    height: 8%;
+    background: beige;
+    border-radius: 50px;
+    margin-left: 44%;
+    margin-top: 2%;
+}
